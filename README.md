@@ -8,7 +8,7 @@ This is the main repository for All platforms (Web, Android and iOS).
 ### Repositories
 
 1. Web repository - https://github.com/lvabarajithan/cgpa-calculator-web
-2. Android repository - in progress..
+2. Android repository - https://github.com/lvabarajithan/cgpa-calculator-android
 3. iOS Swift repository - in progress..
 
 ####License
