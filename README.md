@@ -1,13 +1,13 @@
 # Cgpa Calculator (deprecated)
 CGPA Calculator is an open source project for Anna University Regulations.
 
-![picture alt](https://github.com/lvabarajithan/cgpa-calculator/blob/master/logo.png "CGPA Calculator logo")
-
-This is the main repository for All platforms (Web, Android and iOS).
-
 **Note:**
 This project is no longer in development. 
 You are welcome to fork and continue your own version of this CGPA Calculator.
+
+![picture alt](https://github.com/lvabarajithan/cgpa-calculator/blob/master/logo.png "CGPA Calculator logo")
+
+This is the main repository for All platforms (Web, Android and iOS).
 
 ### Repositories
 
